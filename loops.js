@@ -4,7 +4,7 @@ function forloop(){
       return "I am 1 strange loop."
     }
     else{
-      return 
+      return "I am ${i} strange loops."
     }
   }
   }
